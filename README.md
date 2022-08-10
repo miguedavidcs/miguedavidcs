@@ -1,21 +1,59 @@
-### Hi there 👋
-
-Hello, I'm a frontend development engineer in html and css.
-I also use Js and Ts (the important thing is to be better every day)
-:red_circle:
+### Mi nombre es Miguel David Castaño Salgado 👋
+#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
 
 
-<!--
-**miguedavidcs/miguedavidcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-  
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-D- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Actualmente me dedico a:
+
+
+- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
+- Desarrollo de app web para pequeñas y medianas compañias.
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+___
+
+
+
+#### Tengo conocimientos sobre:
+
+
+##### Programming languages
+
+
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
+</p>
+
+
+____
+
+
+##### FrontEnd Development
+
+
+
+____
+
+
+##### Backend Development
+
+
+_____
+
+
+##### Database
+
+
+_____
+
+
+ ##### Others
+ 
+
+
+#### Algunos de mis proyectos:
+
+
+
+
+
